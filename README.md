@@ -2,6 +2,11 @@
 
 An advanced Machine Learning application to predict the likelihood of heart disease using **Logistic Regression, Random Forest, and XGBoost**. The system selects the best model for accurate predictions.
 
+## 🚀 Try it Live!
+🌐 **Live Demo:** [https://magudeshwaran-heart-disease.streamlit.app/](https://magudeshwaran-heart-disease.streamlit.app/)
+
+Experience the AI-powered **Heart Disease Prediction System** in action! No installation required - just click the link above to start analyzing risk instantly.
+
 ![App Screenshot](screenshot.png)
 
 ## 📂 Project Structure
